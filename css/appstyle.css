@@ -1,7 +1,16 @@
 <style>
-     #canvas-container {
+     #hdi-container {
             position: relative;
             height: 100%;
             max-width: 100%;
         }
 </style>
+
+<style>
+     #murder-container {
+            position: relative;
+            height: 100%;
+            max-width: 100%;
+        }
+</style>
+
